@@ -1,8 +1,7 @@
 # demo-nav
-<center>
-  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-</center><br>
 This is demo for dynamic navbar module using VUE.JS for codeuino organisation
+<br>
+# There is a gif for the demo.
 
 ## Project setup
 ```
