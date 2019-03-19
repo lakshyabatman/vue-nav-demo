@@ -1,13 +1,13 @@
 <template>
-  <div >
-    <h1><center>HOME PAGE</center></h1>
+  <div>
+    <h1><center>ABOUT</center></h1>
 
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'About',
   
 }
 </script>
