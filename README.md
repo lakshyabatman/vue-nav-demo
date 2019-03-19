@@ -1,5 +1,7 @@
 # demo-nav
 
+This is demo for dynamic navbar module using VUE.JS for codeuino organisation
+
 ## Project setup
 ```
 npm install
